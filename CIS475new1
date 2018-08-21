@@ -1,0 +1,22 @@
+• Just HTML
+• <html>
+• <head>
+• <title>A quick test</title>
+• <head>
+• <body>
+• Hello World!
+• </body>
+• </html>
+• With PHP, it is easy to embed dynamic activity in web pages
+• <html>
+• <head>
+• <title>Today’s News</title>
+• <head>
+• <body>
+• <?php
+• echo "Today is " . date("l") . ". ";
+• ?>
+• Here is the latest news.
+……
+• </body>
+• </html>
